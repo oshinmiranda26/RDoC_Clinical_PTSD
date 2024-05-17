@@ -1,20 +1,20 @@
-Keyword	Domain	Source	Sentence
-thought	AROUSAL_REGULATION	RDoC	has weird thought patterns.
-sleep	AROUSAL_REGULATION	RDoC	experiences sleep disturbances
-apnea	AROUSAL_REGULATION	RDoC	Sleep apnea diagnosis
-therapy	AROUSAL_REGULATION	RDoC	outpatient physical therapy was recommended.
-effect	COGNITIVE_SYSTEMS	RDoC	Anxiety due to potential side effects of medications
-adhd	COGNITIVE_SYSTEMS	RDoC	ADHD evaluation
-anxiety	COGNITIVE_SYSTEMS	RDoC	Experiencing anxiety with depression
-disability	COGNITIVE_SYSTEMS	RDoC	disability and PTSD
-induce	NEGATIVE_VALENCE	RDoC	Stress-related low back pain induced
-trauma	NEGATIVE_VALENCE	RDoC	paraparesis due to trauma
-smoking	POSITIVE_VALENCE	RDoC	Admits to occasional smoking
-hoard	POSITIVE_VALENCE	RDoC	presence of food hoarding behavior
-tired	POSITIVE_VALENCE	RDoC	Reports tiredness, and anxiety
-dizziness	POSITIVE_VALENCE	RDoC	worsening dizziness.
-move	SENSORIMOTOR_SYSTEMS	RDoC	Movement exacerbates fatigue.
-sensory 	SENSORIMOTOR_SYSTEMS	RDoC	sensory deficit and intellectual disability
-temporal	SENSORIMOTOR_SYSTEMS	RDoC	temporal wasting observed during head and neck examination
-nausea	SOCIAL_PROCESSES	RDoC	experiencing nausea after party
-loss	SOCIAL_PROCESSES	RDoC	Experienced loss of family member recently
+Keyword	Domain	Sentence
+thought	AROUSAL_REGULATION	has weird thought patterns.
+sleep	AROUSAL_REGULATION	experiences sleep disturbances
+apnea	AROUSAL_REGULATION	Sleep apnea diagnosis
+therapy	AROUSAL_REGULATION	outpatient physical therapy was recommended.
+effect	COGNITIVE_SYSTEMS	Anxiety due to potential side effects of medications
+adhd	COGNITIVE_SYSTEMS	ADHD evaluation
+anxiety	COGNITIVE_SYSTEMS	Experiencing anxiety with depression
+disability	COGNITIVE_SYSTEMS	disability and PTSD
+induce	NEGATIVE_VALENCE	Stress-related low back pain induced
+trauma	NEGATIVE_VALENCE	paraparesis due to trauma
+smoking	POSITIVE_VALENCE	Admits to occasional smoking
+hoard	POSITIVE_VALENCE	presence of food hoarding behavior
+tired	POSITIVE_VALENCE	Reports tiredness, and anxiety
+dizziness	POSITIVE_VALENCE	worsening dizziness.
+move	SENSORIMOTOR_SYSTEMS	Movement exacerbates fatigue.
+sensory 	SENSORIMOTOR_SYSTEMS	sensory deficit and intellectual disability
+temporal	SENSORIMOTOR_SYSTEMS	temporal wasting observed during head and neck examination
+nausea	SOCIAL_PROCESSES	experiencing nausea after party
+loss	SOCIAL_PROCESSES	Experienced loss of family member recently
