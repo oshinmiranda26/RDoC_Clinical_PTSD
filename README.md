@@ -2,7 +2,7 @@
 This repository contains the code for a natural language processing (NLP) workflow designed to extract Research Domain Criteria (RDoC) from electronic medical records (EMR) of individuals with post-traumatic stress disorder (PTSD). 
 How to use the code:
 
-We have provided a small subset of the clinical notes (ENC1.csv and ENC2.csv) and sentence dictionary (RDoC_Dictionary_subset.csv) and keyword dictionary (RDoc_keyword_dictionary.csv). 
+We have provided a small subset of the clinical notes (ENC1.csv and ENC2.csv) and sentence dictionary (RDoC_Dictionary_subset.csv) and keyword dictionary (RDoc_keyword_dictionary.csv). Please run the run.py file. The threshold value is set to 0.3. 
 
 We recommend using a GPU for training.
 
