@@ -1,0 +1,26 @@
+STUDY_ID,CONTACT_DATE,VISIT_ID,ENC_TYPE_CD,ENC_TYPE,STUDY_NOTE_ID,STUDY_NOTE_CSN_ID,LINE_NUM,NOTE_TEXT
+1,5/11/14,1,70,TELEPHONE,1,1,1,"Patient presents with erratic thought patterns suggestive of underlying psychological distress. Complains of frequent sleep disturbances, suspecting sleep apnea; referral for polysomnography advised. Additionally, patient expresses interest in outpatient physical therapy for better sleep management and overall well-being."
+2,5/10/16,2,70,TELEPHONE,2,2,1,"Notable anxiety reported regarding potential adverse effects of prescribed medications, impacting treatment adherence. ADHD evaluation recommended due to attention deficits and impulsivity. Concurrent symptoms of anxiety and depression warrant further assessment and tailored intervention."
+3,5/10/13,3,70,TELEPHONE,3,3,1,"Patient manifests symptoms indicative of PTSD-related disability, affecting occupational and social functioning. Chronic stress-related low back pain exacerbated by past traumatic experiences, necessitating multidisciplinary pain management."
+4,5/10/12,4,70,TELEPHONE,4,4,1,"Patient acknowledges intermittent smoking habits, highlighting a need for smoking cessation counseling. Observed food hoarding behavior indicative of underlying psychological distress. Reports persistent fatigue, anxiety, and worsening dizziness, warranting comprehensive evaluation."
+5,5/11/14,5,70,TELEPHONE,5,5,1,"Patient experiences exacerbated fatigue with physical exertion, suggestive of underlying sensorimotor dysfunction. Presence of sensory deficit and intellectual impairment noted during neurological examination, necessitating ongoing monitoring and support."
+6,2/23/16,6,450,HOSPITAL-ENCOUNTER,6,6,1,"Recurrent nausea following recent social gatherings, suggesting possible social anxiety or gastrointestinal disturbance; further investigation warranted. Recent loss of family member contributing to emotional distress, necessitating grief counseling and psychosocial support."
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

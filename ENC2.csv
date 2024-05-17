@@ -1,0 +1,26 @@
+STUDY_ID,CONTACT_DATE,VISIT_ID,ENC_TYPE_CD,ENC_TYPE,STUDY_NOTE_ID,STUDY_NOTE_CSN_ID,LINE_NUM,NOTE_TEXT
+1,12/19/18,1,500,IP CONSULT,1,1,1,"Patient presents with complaints of persistent fatigue and dizziness. Physical examination reveals low blood pressure and abnormal electrolyte levels. Recent laboratory tests indicate elevated liver enzymes, prompting concern for hepatic dysfunction. Prescribed medications include Lisinopril for hypertension, Metoprolol for tachycardia, and Furosemide for fluid retention. Social History: Patient reports financial constraints and struggles to afford prescribed medications regularly."
+2,12/19/19,2,500,IP CONSULT,2,2,2,"Patient presents with complaints of persistent fatigue and dizziness. Physical examination reveals low blood pressure and abnormal electrolyte levels. Recent laboratory tests indicate elevated liver enzymes, prompting concern for hepatic dysfunction. Prescribed medications include Lisinopril for hypertension, Metoprolol for tachycardia, and Furosemide for fluid retention. Social History: Patient reports financial constraints and struggles to afford prescribed medications regularly."
+3,12/19/20,3,500,IP CONSULT,3,3,3,"Patient presents with symptoms of anxiety and depression, reporting a history of childhood trauma. Notable physical findings include scars indicative of prior self-harm. Laboratory tests show normal results. Prescribed medications include Sertraline for depression and anxiety and Quetiapine for mood stabilization. Social History: Patient discloses a history of childhood sexual abuse, leading to ongoing psychological distress and difficulty forming interpersonal relationships."
+4,12/19/14,4,500,IP CONSULT,4,4,4,"Patient with a history of hypertension and diabetes presents with complaints of excessive thirst and frequent urination. Recent laboratory tests indicate uncontrolled blood sugar levels and worsening renal function. Prescribed medications are modified as follows: Addition of insulin glargine for better glycemic control, Increase in lisinopril dosage for blood pressure management, and Initiation of metformin for diabetes management. Social History: Patient expresses concerns about managing medication costs alongside household expenses."
+5,12/19/16,5,500,IP CONSULT,5,5,5,"Patient admitted with exacerbation of chronic obstructive pulmonary disease (COPD) and recurrent respiratory infections. Recent laboratory tests show elevated white blood cell count and C-reactive protein levels indicative of infection. Despite previous education, patient admits poor adherence to prescribed inhaler therapy. Medications include Albuterol inhaler for bronchodilation and Prednisone taper for acute exacerbation. Social History: Patient acknowledges financial difficulties and limited access to transportation, hindering regular clinic visits and medication refills."
+6,12/19/19,6,500,IP CONSULT,6,6,6,"Patient presents with symptoms of nausea, vomiting, and abdominal discomfort. Recent laboratory tests reveal elevated liver enzymes and altered renal function. Medications initiated within the past month include Atorvastatin for hyperlipidemia and Ibuprofen for musculoskeletal pain. Due to suspected medication-induced hepatorenal toxicity, both medications are discontinued. Alternative pain management strategies and lipid-lowering agents are considered. Social History: Patient lives alone and expresses concerns about managing daily activities amidst declining health."
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
