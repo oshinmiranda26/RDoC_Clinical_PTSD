@@ -71,7 +71,7 @@ The first run downloads the all-mpnet-base-v2 model (about 420 MB) and NLTK's se
 
 If you use this code, please cite:
 
-Miranda O, et al. Enhancing post-traumatic stress disorder patient assessment: Leveraging Natural Language Processing for Research of Domain Criteria Identification using electronic medical records. *Research Square* (preprint), 2024. doi:10.21203/rs.3.rs-3973337/v1
+Miranda O, Kiehl SM, Qi X, Brannock MD, Kosten T, Ryan ND, Kirisci L, Wang Y, Wang L. Enhancing post-traumatic stress disorder patient assessment: leveraging natural language processing for research of domain criteria identification using electronic medical records. *BMC Medical Informatics and Decision Making*. 2024;24(1):154. https://doi.org/10.1186/s12911-024-02554-8
 
 ## Author
 
